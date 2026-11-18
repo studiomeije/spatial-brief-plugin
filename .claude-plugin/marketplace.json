@@ -1,0 +1,13 @@
+{
+  "name": "studiomeije",
+  "owner": { "name": "Studio Meije", "url": "https://thespatialbrief.com" },
+  "metadata": { "description": "Studio Meije's plugins: The Spatial Brief, a curated visionOS research archive." },
+  "plugins": [
+    {
+      "name": "spatial-brief",
+      "source": "./",
+      "description": "Search The Spatial Brief's curated visionOS archive and write source-backed research briefs.",
+      "category": "productivity"
+    }
+  ]
+}

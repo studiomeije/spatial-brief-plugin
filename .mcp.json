@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "spatial-brief": { "type": "http", "url": "https://thespatialbrief.com/api/mcp" }
+  }
+}

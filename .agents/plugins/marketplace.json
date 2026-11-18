@@ -1,0 +1,10 @@
+{
+  "name": "studiomeije",
+  "interface": { "displayName": "Studio Meije" },
+  "plugins": [{
+    "name": "spatial-brief",
+    "source": { "source": "local", "path": "./" },
+    "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+    "category": "Productivity"
+  }]
+}

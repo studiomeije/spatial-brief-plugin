@@ -1,0 +1,14 @@
+{
+  "name": "spatial-brief",
+  "version": "1.1.0",
+  "description": "Search The Spatial Brief's curated archive of visionOS apps, companies, people and news, and write source-backed research briefs. Requires a Spatial Brief account.",
+  "author": {
+    "name": "Studio Meije",
+    "url": "https://thespatialbrief.com"
+  },
+  "homepage": "https://thespatialbrief.com/mcp",
+  "privacyPolicyUrl": "https://thespatialbrief.com/privacy",
+  "license": "MIT",
+  "keywords": ["visionos", "apple-vision-pro", "spatial-computing", "research", "news"],
+  "mcpServers": "./.mcp.json"
+}
