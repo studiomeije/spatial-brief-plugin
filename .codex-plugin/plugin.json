@@ -1,6 +1,6 @@
 {
   "name": "spatial-brief",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Explore the visionOS ecosystem, compare source-backed entries and build research briefs.",
   "author": {
     "name": "Studio Meije",
@@ -11,7 +11,7 @@
   "interface": {
     "displayName": "The Spatial Brief",
     "shortDescription": "visionOS research and news",
-    "longDescription": "A research assistant for developers, analysts and teams working with Apple Vision Pro. Search a curated archive of released visionOS apps, companies, public professional profiles and news. Compare entries, explore their relationships and prepare briefs that link to original sources. Coverage is selective. A free Spatial Brief account is required. Optional write permission lets you send public links to the curator’s bookmark queue with submit_bookmark or submit native visionOS apps by their App Store link with submit_app. App submissions are checked against the App Store; eligible apps are added automatically and unclear cases go to a curator. Neither tool can edit or delete archive entries.",
+    "longDescription": "A research assistant for developers, analysts and teams working with Apple Vision Pro. Search a curated archive of released visionOS apps, companies, public professional profiles and news. Compare entries, explore their relationships and prepare briefs that link to original sources. Coverage is selective. A Spatial Brief account is required; you can create one when you sign in. Optional write permission lets you send public links to the curator’s bookmark queue with submit_bookmark or submit native visionOS apps by their App Store link with submit_app. App submissions are checked against the App Store; eligible apps are added automatically and unclear cases go to a curator. Neither tool can edit or delete archive entries.",
     "developerName": "Studio Meije",
     "category": "Productivity",
     "capabilities": [
@@ -89,7 +89,7 @@
         "commerce_description": "The plugin does not sell products or process payments."
       },
       "publication": {
-        "release_notes": "Version 1.1.0 adds App Store submissions for released native visionOS apps and public connection, permissions, and tool documentation at https://thespatialbrief.com/mcp."
+        "release_notes": "Version 1.1.1 clarifies the account requirement in the listing text. Version 1.1.0 added App Store submissions for released native visionOS apps and public connection, permissions, and tool documentation at https://thespatialbrief.com/mcp."
       }
     }
   }
